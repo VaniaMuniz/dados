@@ -1,0 +1,8 @@
+Quais as 7 pessoas com mais idade?
+Quias as 7 pessoas mais novas?
+
+Qual são os valores encontrados na coluna Trabalho? Valores únicos.
+Quais são as possibilidades de valores da coluna Habitacao?
+Quais são as possibilidades de valores da coluna Proposito?
+
+Qual a contagem de cada caso da coluna Risco?
